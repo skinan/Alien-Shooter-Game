@@ -1,4 +1,4 @@
-# alien_shooter_game
+# Alien_Shooter_Game
 
 A simple game made with python for learning purpose by following codes and instructions of a book.
   
