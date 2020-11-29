@@ -16,6 +16,9 @@ Length:	560 pages
 Thanks to Eric Matthes for writing a very wonderful book to learn Python!
 
 
+
+# Screenshots
+
 ![alt text](https://github.com/skinan/Alien_Shooter_Game/blob/master/Screenshot/Screenshot%20(62).png "Main Window")
 
 ![alt text](https://github.com/skinan/Alien_Shooter_Game/blob/master/Screenshot/Screenshot%20(64).png "Running Window")
