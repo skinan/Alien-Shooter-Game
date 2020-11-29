@@ -1,9 +1,7 @@
 # Alien Shooter Game
-
-A simple game made with Python and using PyGame module for learning purpose by following codes and instructions of a book.
-  
+A simple game made with Python programming language and using PyGame module for learning purpose by following codes and instructions of a book.
 This game is made by following code based insturctions of a book named "Python Crash Course: A Hands-on, Project-based    Introduction to Programming" by Eric Matthes.
-This game is made for only learning and educational purpose and for fair use. 
+This game is made for only learning and educational purpose and for fair use.
 
 # Book Information:
 Title	Python Crash Course: A Hands-On, Project-Based Introduction to Programming
